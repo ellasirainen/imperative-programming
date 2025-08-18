@@ -10,5 +10,3 @@ for t in range(101):
         time = t
 
 print(time)
-
-#note to self: ask for help with this one!
